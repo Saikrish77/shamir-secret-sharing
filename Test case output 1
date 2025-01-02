@@ -1,0 +1,14 @@
+Enter the number of roots (n): 3
+Enter the minimum number of roots (k): 3
+Enter the x values:
+x[1]: 1
+x[2]: 2
+x[3]: 3
+Enter the y values and their bases:
+y[1] (encoded value): 4
+base[1]: 10
+y[2] (encoded value): 111
+base[2]: 2
+y[3] (encoded value): 12
+base[3]: 10
+The constant term (c) of the polynomial is: 3
