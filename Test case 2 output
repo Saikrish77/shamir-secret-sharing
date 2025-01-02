@@ -1,0 +1,35 @@
+Enter the number of roots (n): 10
+Enter the minimum number of roots (k): 7
+Enter the x values:
+x[1]: 1
+x[2]: 2
+x[3]: 3
+x[4]: 4
+x[5]: 5
+x[6]: 6
+x[7]: 7
+x[8]: 8
+x[9]: 9
+x[10]: 10
+Enter the y values and their bases:
+y[1] (encoded value): 13444211440455345511
+base[1]: 6
+y[2] (encoded value): aed7015a346d63
+base[2]: 15
+y[3] (encoded value): 6aeeb69631c227c
+base[3]: 15
+y[4] (encoded value): e1b5e05623d881f
+base[4]: 16
+y[5] (encoded value): 316034514573652620673
+base[5]: 8
+y[6] (encoded value): 2122212201122002221120200210011020220200
+base[6]: 3
+y[7] (encoded value): 20120221122211000100210021102001201112121
+base[7]: 3
+y[8] (encoded value): 20220554335330240002224253
+base[8]: 6
+y[9] (encoded value): 45153788322a1255483
+base[9]: 12
+y[10] (encoded value): 1101613130313526312514143
+base[10]: 7
+The constant term (c) of the polynomial is: 110680544278521360000
