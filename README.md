@@ -1,5 +1,3 @@
-# shamir-secret-sharing
-Implementation of a simplified Shamir's Secret Sharing algorithm to decode polynomial roots and find the constant term c. Handles dynamic user input and supports multiple bases for decoding.
 # Shamir's Secret Sharing
 
 This repository contains a C implementation of a simplified version of Shamir's Secret Sharing algorithm. The program decodes polynomial roots from user input, solves for the polynomial coefficients, and finds the constant term `c`. 
